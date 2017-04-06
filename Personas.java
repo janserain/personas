@@ -56,7 +56,7 @@ public class Personas {
             os.printPerson();
         }
 
-        prt("------------------");
+        prt("------- Anonymous Class -----------");
         printThem(
                 t,
                 new CheckPerson() {
